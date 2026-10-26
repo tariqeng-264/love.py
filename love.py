@@ -122,7 +122,7 @@ if st.session_state.step1:
         except:
             st.error("Image file 'Download.jfif' missing.")
 
-    st.markdown("<div class='birth-date-box'>✨ 2003 / 02 / 07 ✨</div>", unsafe_allow_html=True)
+    st.markdown("<div class='birth-date-box'>✨ 2003 / 07 / 02 ✨</div>", unsafe_allow_html=True)
 
     st.markdown("""
         <div class='poem-box'>
