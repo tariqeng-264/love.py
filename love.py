@@ -116,7 +116,7 @@ if st.session_state.step1:
     with col_center:
         try:
             st.image(
-                "Download.jfif",
+                "download.jfif",
                 use_container_width=True
             )
         except:
